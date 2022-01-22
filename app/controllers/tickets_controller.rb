@@ -8,6 +8,7 @@ class TicketsController < ApplicationController
 
   # GET /tickets/1 or /tickets/1.json
   def show
+    // adding a new commit
   end
 
   # GET /tickets/new
